@@ -1,0 +1,5 @@
+{
+  "name": "EduTime AI",
+  "description": "An AI-powered timetable generation system. It optimizes multidisciplinary course schedules, prevents clashes, and manages resources effectively using the Gemini API.",
+  "requestFramePermissions": []
+}
